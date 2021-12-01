@@ -1,0 +1,3 @@
+= Advent of Code
+
+image:https://github.com/uniqueck/advent-of-code/actions/workflows/ci.yml/badge.svg[link=https://github.com/uniqueck/advent-of-code/actions/workflows/ci.yml]
